@@ -1,0 +1,5 @@
+small {
+    float: left;
+    // or
+    display: inline-block;
+}
